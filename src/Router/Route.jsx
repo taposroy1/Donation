@@ -15,7 +15,7 @@ const myCreatedRoute = createBrowserRouter([
             {
                 path: "/",
                 element: <Home></Home>,
-                loader: () => fetch('https://raw.githubusercontent.com/taposroy1/donation.json/main/donation.json')
+                loader: () => fetch('https://raw.githubusercontent.com/taposroy1/Donation.json/main/donation.json-main/donation.json-main/donation.json')
             },
             {
                 path: "/donations",
@@ -24,12 +24,12 @@ const myCreatedRoute = createBrowserRouter([
             {
                 path: "/statistics",
                 element: <Statistics></Statistics>,
-                loader: () => fetch('https://raw.githubusercontent.com/anfal11/donation.json/main/donation.json')
+                loader: () => fetch('https://raw.githubusercontent.com/taposroy1/Donation.json/main/donation.json-main/donation.json-main/donation.json')
             },
             {
                 path: `/donation/:id`,
                 element: <Card></Card>,
-                loader: () => fetch('https://raw.githubusercontent.com/anfal11/donation.json/main/donation.json')
+                loader: () => fetch('https://raw.githubusercontent.com/taposroy1/Donation.json/main/donation.json-main/donation.json-main/donation.json')
             }
         ]
     }
