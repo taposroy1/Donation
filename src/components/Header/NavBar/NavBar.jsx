@@ -106,20 +106,6 @@ const NavBar = () => {
             </li>
             <li className="text-lg font-bold">
               <NavLink
-                to="/donations"
-                className={({ isActive, isPending }) =>
-                  isPending
-                    ? "pending"
-                    : isActive
-                    ? "text-[#FF444A] underline"
-                    : ""
-                }
-              >
-                Donation2
-              </NavLink>
-            </li>
-            <li className="text-lg font-bold">
-              <NavLink
                 to="/statistics"
                 className={({ isActive, isPending }) =>
                   isPending

@@ -19,10 +19,10 @@ const Banner = ({handleSearchValue}) => {
           backgroundImage: `url('https://i.ibb.co/qgpZ9xm/banner.jpg')`,
         }}
       >
-        <div className="hero-overlay bg-white bg-opacity-95"></div>
+        <div className="hero-overlay  bg-opacity-75"></div>
         <div className="hero-content text-center text-neutral-content">
           <div>
-            <h1 className="mb-5 text-xl md:text-3xl lg:text-5xl font-bold text-[#0B0B0B]">
+            <h1 className="mb-5 text-xl md:text-3xl lg:text-5xl font-bold text-[#ffffff]">
               I Grow By Helping People In Need
             </h1>
 
