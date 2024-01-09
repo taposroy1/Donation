@@ -118,9 +118,24 @@ const NavBar = () => {
                 Statistics
               </NavLink>
             </li>
+            <li className="text-lg font-bold">
+              <NavLink
+
+                className={({ isActive, isPending }) =>
+                  isPending
+                    ? "pending"
+                    : isActive
+                    ? "text-[#FF444A] underline"
+                    : ""
+                }
+              >
+                Login
+              </NavLink>
+            </li>
           </ul>
         </div>
       </div>
+
     </div>
   );
 };

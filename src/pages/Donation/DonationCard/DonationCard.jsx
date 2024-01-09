@@ -13,6 +13,7 @@ const DonationCard = ({data}) => {
                    <h1 className="inline-block p-1 mx-4 mt-4 text-center text-sm font-medium rounded" style={{color:tertiary_color, backgroundColor:main_color}}> {category} </h1>
                   
                   <h1 className="font-semibold text-lg mx-4 my-2 text-black"> {title} </h1>
+                  <h1 className="font-semibold text-lg mx-4 my-2 text-black"> {title} </h1>
                   <h1 className="font-semibold text-lg mx-4" style={{color:tertiary_color}}> ${price} </h1>
                   <Link to={`/donation/${id}`}>
                   <div className="flex mx-4 my-4">

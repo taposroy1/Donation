@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/9rKfntg/health.jpg",
+      "title": "Clean water for Children",
+      "category": "Health",
+      "main_color": "#0052ff33",
+      "secondary_color": "#0052ff26",
+      "tertiary_color": "#0052FF",
+      "description": "Access to quality healthcare is essential for the well-being of all individuals. Governments can play a crucial role by investing in healthcare infrastructure, ensuring that medical services are affordable and accessible to everyone. Promoting health education and preventive measures is equally important. Families can contribute by adopting healthy lifestyles and encouraging regular check-ups. Healthcare professionals can create a compassionate and knowledgeable healthcare environment, focusing on patient well-being and preventive care to help individuals lead healthier lives.",
+      "price": 290
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/LnJ2Bt9/education.jpg",
+      "title": "Good education",
+      "category": "Education",
+      "main_color": "#ff444a33",
+      "secondary_color": "#ff444a26",
+      "tertiary_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/YyYWBsP/clothing.jpg",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "main_color": "#79c23f33",
+      "secondary_color": "#79c23f26",
+      "tertiary_color": "#79C23F",
+      "description": "Clothing is not just a necessity but also a form of self-expression. Governments can support the clothing industry by promoting fair labor practices and sustainable fashion. Affordable and stylish clothing options should be accessible to all. Families can teach the importance of dressing appropriately and maintaining personal hygiene. Designers and manufacturers should prioritize eco-friendly and ethical practices. Together, we can ensure that everyone has the opportunity to dress comfortably and confidently, regardless of their background or budget.",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/mh0qx1F/food.jpg",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "main_color": "#f8714733",
+      "secondary_color": "#f8714726",
+      "tertiary_color": "#F87147",
+      "description": "Access to nutritious and affordable food is a fundamental human right. Governments can address food security issues by implementing policies that support local agriculture, reduce food waste, and provide assistance to those in need. Families can teach healthy eating habits and cooking skills, making home-cooked meals a regular part of life. Farmers and food producers can prioritize sustainability and responsible sourcing. By working together, we can ensure that no one goes hungry and that everyone has access to safe and nourishing food options.",
+      "price": 300
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/mh0qx1F/food.jpg",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "main_color": "#f8714733",
+      "secondary_color": "#f8714726",
+      "tertiary_color": "#F87147",
+      "description": "Access to nutritious and affordable food is a fundamental human right. Governments can address food security issues by implementing policies that support local agriculture, reduce food waste, and provide assistance to those in need. Families can teach healthy eating habits and cooking skills, making home-cooked meals a regular part of life. Farmers and food producers can prioritize sustainability and responsible sourcing. By working together, we can ensure that no one goes hungry and that everyone has access to safe and nourishing food options.",
+      "price": 300
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/YyYWBsP/clothing.jpg",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "main_color": "#79c23f33",
+      "secondary_color": "#79c23f26",
+      "tertiary_color": "#79C23F",
+      "description": "Clothing is not just a necessity but also a form of self-expression. Governments can support the clothing industry by promoting fair labor practices and sustainable fashion. Affordable and stylish clothing options should be accessible to all. Families can teach the importance of dressing appropriately and maintaining personal hygiene. Designers and manufacturers should prioritize eco-friendly and ethical practices. Together, we can ensure that everyone has the opportunity to dress comfortably and confidently, regardless of their background or budget.",
+      "price": 200
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/LnJ2Bt9/education.jpg",
+      "title": "Good education",
+      "category": "Education",
+      "main_color": "#ff444a33",
+      "secondary_color": "#ff444a26",
+      "tertiary_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 250
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/9rKfntg/health.jpg",
+      "title": "Clean water for Children",
+      "category": "Health",
+      "main_color": "#0052ff33",
+      "secondary_color": "#0052ff26",
+      "tertiary_color": "#0052FF",
+      "description": "Access to quality healthcare is essential for the well-being of all individuals. Governments can play a crucial role by investing in healthcare infrastructure, ensuring that medical services are affordable and accessible to everyone. Promoting health education and preventive measures is equally important. Families can contribute by adopting healthy lifestyles and encouraging regular check-ups. Healthcare professionals can create a compassionate and knowledgeable healthcare environment, focusing on patient well-being and preventive care to help individuals lead healthier lives.",
+      "price": 290
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/9rKfntg/health.jpg",
+      "title": "Clean water for Children",
+      "category": "Health",
+      "main_color": "#0052ff33",
+      "secondary_color": "#0052ff26",
+      "tertiary_color": "#0052FF",
+      "description": "Access to quality healthcare is essential for the well-being of all individuals. Governments can play a crucial role by investing in healthcare infrastructure, ensuring that medical services are affordable and accessible to everyone. Promoting health education and preventive measures is equally important. Families can contribute by adopting healthy lifestyles and encouraging regular check-ups. Healthcare professionals can create a compassionate and knowledgeable healthcare environment, focusing on patient well-being and preventive care to help individuals lead healthier lives.",
+      "price": 290
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/LnJ2Bt9/education.jpg",
+      "title": "Good education",
+      "category": "Education",
+      "main_color": "#ff444a33",
+      "secondary_color": "#ff444a26",
+      "tertiary_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 250
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/YyYWBsP/clothing.jpg",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "main_color": "#79c23f33",
+      "secondary_color": "#79c23f26",
+      "tertiary_color": "#79C23F",
+      "description": "Clothing is not just a necessity but also a form of self-expression. Governments can support the clothing industry by promoting fair labor practices and sustainable fashion. Affordable and stylish clothing options should be accessible to all. Families can teach the importance of dressing appropriately and maintaining personal hygiene. Designers and manufacturers should prioritize eco-friendly and ethical practices. Together, we can ensure that everyone has the opportunity to dress comfortably and confidently, regardless of their background or budget.",
+      "price": 200
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/mh0qx1F/food.jpg",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "main_color": "#f8714733",
+      "secondary_color": "#f8714726",
+      "tertiary_color": "#F87147",
+      "description": "Access to nutritious and affordable food is a fundamental human right. Governments can address food security issues by implementing policies that support local agriculture, reduce food waste, and provide assistance to those in need. Families can teach healthy eating habits and cooking skills, making home-cooked meals a regular part of life. Farmers and food producers can prioritize sustainability and responsible sourcing. By working together, we can ensure that no one goes hungry and that everyone has access to safe and nourishing food options.",
+      "price": 300
+    }
+  ]
